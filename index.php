@@ -25,7 +25,7 @@
     </div>
     <div class="row align-items-center mt-5 mx-2">
         <div class="col-12 col-md-12 col-lg-6 text-center me-auto order-2 order-lg-1">
-            <img class="Pinguin img-fluid w-100 w-md-75 rounded-5" src="IMG/Pinguin.png" alt="Pinguïn">
+            <img class="Pinguin img-fluid w-100 w-md-75 rounded-5" src="IMG/Penguin.png" alt="Pinguïn">
             </div>
             <div class="col-md-12 col-lg-6 me-auto order-1 order-lg-2">
                 <p class="tekst mx-auto w-100 w-lg-75">

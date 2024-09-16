@@ -6,7 +6,7 @@
 
         <div class="row mx-2 mt-4">
             <div class="col-md-6 text-center text-lg-start">
-                <p class="mb-0">&copy; 2024 Sebastiaan B.V. | All Rights Reserved</p>
+                <p class="mb-0">&copy; 2024 ChiefPinguin B.V. | All Rights Reserved</p>
             </div>
 
             <div class="col-md-6 text-center text-lg-end">
