@@ -11,14 +11,12 @@
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="IMG/ChiefPinguin.png" type="image/x-icon">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
-
 </head>
-
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+<nav class="navbar navbar-expand-lg navbar-dark bg-black sticky-top">
     <div class="container-fluid">
         <a class="navbar-brand" href="/Te_veel_vrije_tijd/Project-Pinguin">
-            <img class="Penguin-img" src="IMG/ChiefPinguin.png" style="width: 60px; height: 45px; object-fit: cover;"></a>
+            <img class="Penguin-img" src="IMG/ChiefPinguin.png" style="width: 45px; height: 45px; object-fit: cover;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -29,5 +27,4 @@
                 <a class="tekst1 nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Gedrag-sociaal">Gedrag - Sociale structuur</a>
             </div>
         </div>
-    
 </nav> 
