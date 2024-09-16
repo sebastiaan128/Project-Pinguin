@@ -1,0 +1,21 @@
+@media (min-width: 992px) {
+    .Pinguin {
+        width: 75% !important;
+    }
+}
+        @media (min-width: 992px) {
+    .tekst {
+        width: 75% !important;
+    }
+}
+    .tekst {
+        text-align: justify;
+
+    }
+
+
+.Penguin-img {
+    width: 20px;
+    height: 20px;
+}
+
