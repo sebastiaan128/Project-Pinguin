@@ -5,35 +5,27 @@
     <div class="row align-items-center mt-5 mx-2">
         <div class="col-md-12 col-lg-6 ms-auto">
             <p class="tekst mx-auto w-100 w-lg-75">
-                Pinguïns of vetganzen zijn een orde van niet-vliegende zeevogels die alleen voorkomen op het zuidelijk
-                halfrond. De pinguïns behoren tot de orde Sphenisciformes, klasse Aves (vogels). Alle moderne pinguïns
-                behoren tot de familie van de Spheniscidae, maar er zijn uitgestorven soorten die buiten deze kroongroep
-                vallen.<br><br>
-                De pinguïns zijn gemakkelijk te onderscheiden van andere vogels en zijn volledig aangepast aan extreme
-                koude en het leven in de zee. Ze hebben bijvoorbeeld een warm verenkleed. Pinguïns gebruiken hun
-                vleugels om door het water te vliegen, net zoals andere vogels door de lucht vliegen. Ze kunnen met een
-                snelheid tot 30 km per uur door het water vliegen. Volgens sommige woordenboeken, zoals de Oxford
-                English Dictionary, komt de naam "pinguïn" waarschijnlijk van het Welsh pen gwyn. De naam werd
-                oorspronkelijk gebruikt voor de reuzenalk, de inmiddels uitgestorven tegenhanger (geen nauwe verwant)
-                van de pinguïn op het noordelijk halfrond.
+            Pinguïns leven voornamelijk op het zuidelijk halfrond, variërend van de ijzige kusten van Antarctica tot de mildere kusten van Zuid-Amerika. 
+            In Antarctica, zoals bij de keizerspinguïn, zijn ze aangepast aan extreme kou, met dikke veren en vetlagen. 
+            Op sub-Antarctische eilanden en gematigde regio's, zoals Patagonië, leven andere soorten in koudere, voedselrijke zeeën. 
+            Sommige, zoals de Galapagospinguïn, leven zelfs in tropische gebieden. 
+            Pinguïns brengen veel tijd door in zee op zoek naar voedsel, maar keren terug naar land om in grote kolonies te broeden.
             </p>
         </div>
         <div class="col-12 col-md-12 col-lg-6 text-center me-auto">
-            <img class="Pinguin img-fluid w-100 w-md-75 rounded-5" src="IMG/Pinguin.png" alt="Pinguïn">
+            <img class="Pinguin img-fluid w-100 w-md-75 rounded-5" src="IMG/Leefomgeving.png" alt="Pinguïn">
         </div>
     </div>
     <div class="row align-items-center mt-5 mx-2">
         <div class="col-12 col-md-12 col-lg-6 text-center me-auto order-2 order-lg-1">
-            <img class="Pinguin img-fluid w-100 w-md-75 rounded-5" src="IMG/Penguin.png" alt="Pinguïn">
+            <img class="Pinguin img-fluid w-100 w-md-75 rounded-5" src="IMG/leefomgevingdierentuin.png" alt="Pinguïn">
             </div>
             <div class="col-md-12 col-lg-6 me-auto order-1 order-lg-2">
                 <p class="tekst mx-auto w-100 w-lg-75">
-                De pinguïn is een van de meest herkenbare en geliefde dieren ter wereld. 
-                Deze niet-vliegende vogel leeft voornamelijk op het zuidelijk halfrond, waarbij de meeste soorten voorkomen in koude, ijzige omgevingen zoals Antarctica. 
-                Ondanks hun beperkte vliegvermogen, zijn pinguïns uitstekende zwemmers. 
-                Ze hebben zich aangepast aan het leven in zee, waar ze zich behendig door het water bewegen om voedsel, zoals vis en krill, te vangen. 
-                Hun zwarte rug en witte buik zorgen voor camouflage in het water tegen roofdieren. 
-                Pinguïns staan ook bekend om hun sociale gedrag en het vormen van grote kolonies, waar ze gezamenlijk broeden en elkaar beschermen tegen vijanden en extreme weersomstandigheden.
+                Pinguïns leven voornamelijk op het zuidelijk halfrond, variërend van de ijzige kusten van Antarctica tot warmere regio's zoals Zuid-Amerika, Afrika en de sub-Antarctische eilanden. 
+                In Antarctica bewonen soorten zoals de keizerspinguïn en Adéliepinguïn de koude en winderige kusten. Op sub-Antarctische eilanden leven soorten als de koningspinguïn in een milder klimaat. 
+                Pinguïns zoals de Magelhaenpinguïn komen voor in gematigde gebieden, terwijl de Galapagospinguïn zelfs in tropische gebieden leeft. 
+                Ze zijn afhankelijk van de zee voor voedsel en nestelen op kusten of eilanden met toegang tot voedselrijke wateren.
                 </p>
             </div>
     </div>
