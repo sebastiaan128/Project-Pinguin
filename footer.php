@@ -16,9 +16,3 @@
     </div>
 </footer>
 
-<div class="col-md-6 text-center text-lg-end">
-    <p>Designers: Sebastiaan, Kevin, Floris, Jesse</p>
-</div>
-</div>
-</div>
-</footer>

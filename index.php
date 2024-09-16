@@ -2,7 +2,7 @@
 <?php include 'navbar.php'; ?>
 
 <body class="">
-    <h1 class="text-center mt-5"> De Pinguin</h1>
+    <h1 class="tekst1 text-center mt-5"> De Pinguin</h1>
     <div class="row align-items-center mt-5 mx-2">
         <div class="col-md-12 col-lg-6 ms-auto">
             <p class="tekst mx-auto w-100 w-lg-75">
