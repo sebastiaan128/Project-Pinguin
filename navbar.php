@@ -10,6 +10,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="IMG/ChiefPinguin.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
+
 </head>
 
 <body>
@@ -22,9 +24,9 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Habitat-Leefomgeving.php">Habitat - Leefomgeving</a>
-                <a class="nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Voeding-dieet.php">Voeding - Dieet</a>
-                <a class="nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Gedrag-sociaal">Gedrag - Sociale structuur</a>
+                <a class="tekst1 nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Habitat-Leefomgeving.php">Habitat - Leefomgeving</a>
+                <a class="tekst1 nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Voeding-dieet.php">Voeding - Dieet</a>
+                <a class="tekst1 nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Gedrag-sociaal">Gedrag - Sociale structuur</a>
             </div>
         </div>
     

@@ -6,6 +6,8 @@
         @media (min-width: 992px) {
     .tekst {
         width: 75% !important;
+        font-family: 'Montserrat', sans-serif;
+
     }
 }
     .tekst {
@@ -17,5 +19,9 @@
 .Penguin-img {
     width: 20px;
     height: 20px;
+}
+
+body .tekst1{
+    font-family: 'Montserrat', sans-serif;
 }
 
