@@ -1,7 +1,7 @@
 <?php include 'navbar.php'; ?>
 
 <body class="">
-    <h1 class="tekst1 text-center mt-5"> De Pinguin</h1>
+    <h1 class="tekst1 text-center mt-5"> Habitat - Leefomgeving</h1>
     <div class="row align-items-center mt-5 mx-2">
         <div class="col-md-12 col-lg-6 ms-auto">
             <p class="tekst mx-auto w-100 w-lg-75">
@@ -24,14 +24,13 @@
             </div>
             <div class="col-md-12 col-lg-6 me-auto order-1 order-lg-2">
                 <p class="tekst mx-auto w-100 w-lg-75">
-                
-Pinguïns leven voornamelijk op het zuidelijk halfrond, van de ijzige kusten van Antarctica tot warmere streken zoals Zuid-Amerika, Afrika, Nieuw-Zeeland, en de sub-Antarctische eilanden. 
-In de koude, barre omgeving van Antarctica bewonen soorten zoals de keizerspinguïn en Adéliepinguïn de besneeuwde en winderige kusten, waar ze hun jongen grootbrengen. 
-Op de sub-Antarctische eilanden leven soorten als de koningspinguïn in een milder, maar nog steeds uitdagend klimaat. 
-Sommige pinguïns, zoals de Magelhaenpinguïn, leven in gematigde kustgebieden, terwijl de Galapagospinguïn zelfs tropische wateren bewoont.
-Pinguïns hebben een sterke band met de zee, waar ze hun voedsel vinden, zoals vis, inktvis en krill. 
-Ze nestelen op rotsachtige kusten of zandstranden, vaak in grote kolonies voor bescherming tegen roofdieren en extreme weersomstandigheden. 
-Hun habitats bieden niet alleen voedsel, maar ook veilige plekken om hun eieren uit te broeden en hun jongen groot te brengen.
+                Pinguïns leven voornamelijk op het zuidelijk halfrond, van de ijzige kusten van Antarctica tot warmere streken zoals Zuid-Amerika, Afrika, Nieuw-Zeeland, en de sub-Antarctische eilanden. 
+                In de koude, barre omgeving van Antarctica bewonen soorten zoals de keizerspinguïn en Adéliepinguïn de besneeuwde en winderige kusten, waar ze hun jongen grootbrengen. 
+                Op de sub-Antarctische eilanden leven soorten als de koningspinguïn in een milder, maar nog steeds uitdagend klimaat. 
+                Sommige pinguïns, zoals de Magelhaenpinguïn, leven in gematigde kustgebieden, terwijl de Galapagospinguïn zelfs tropische wateren bewoont.
+                Pinguïns hebben een sterke band met de zee, waar ze hun voedsel vinden, zoals vis, inktvis en krill. 
+                Ze nestelen op rotsachtige kusten of zandstranden, vaak in grote kolonies voor bescherming tegen roofdieren en extreme weersomstandigheden. 
+                Hun habitats bieden niet alleen voedsel, maar ook veilige plekken om hun eieren uit te broeden en hun jongen groot te brengen.
                 </p>
             </div>
     </div>
