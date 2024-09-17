@@ -24,7 +24,7 @@
             <div class="navbar-nav">
                 <a class="tekst1 nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Habitat-Leefomgeving.php">Habitat - Leefomgeving</a>
                 <a class="tekst1 nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Voeding-dieet.php">Voeding - Dieet</a>
-                <a class="tekst1 nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Gedrag-sociaal">Gedrag - Sociale structuur</a>
+                <a class="tekst1 nav-link text-white" href="/Te_veel_vrije_tijd/Project-Pinguin/Gedrag-sociaal.php">Gedrag - Sociale structuur</a>
             </div>
         </div>
 </nav> 
